@@ -1,0 +1,6 @@
+@appeboxV00._01.Server_HostAddress = http://localhost:5127
+
+GET {{appeboxV00._01.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

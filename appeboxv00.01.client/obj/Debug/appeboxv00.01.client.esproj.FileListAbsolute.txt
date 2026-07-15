@@ -1,0 +1,2 @@
+C:\Users\Soporte\source\repos\appeboxV00.01\appeboxv00.01.client\obj\Debug\appeboxv00.01.client.esproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\VERSIONES APP EBOX\appeboxV00.01\appeboxv00.01.client\obj\Debug\appeboxv00.01.client.esproj.CoreCompileInputs.cache
